@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: first-microservices
+server:
+  port: 8081
+  
+eureka:
+  instance:
+   hostname: localhost
+  
